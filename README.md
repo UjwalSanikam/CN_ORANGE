@@ -45,7 +45,7 @@ We simulate a flood attack by having Host 3 rapidly ping Host 1 ten times.
 ## 📸 Proof of Execution
 
 ### 1. Mininet Simulation (60% Packet Loss on h3 Flood)
-![Mininet Execution and Drop](screenshots/mininet_drop_proof.png)
+![Mininet Execution and Drop](mininet_drop_proof.png)
 
 ### 2. POX Controller Logging Suspicious Activity
-![POX Controller Log Warning](screenshots/pox_warning_log.png)
+![POX Controller Log Warning](pox_warning_log.png)
